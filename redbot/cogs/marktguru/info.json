@@ -1,0 +1,11 @@
+{
+    "author": ["Antigravity"],
+    "name": "Marktguru",
+    "description": "Daily CRON job to search marktguru.de API for discounts on Paulaner Spezi, Paulaner Spezi Zero, and Rougette Ofenkäse.",
+    "short": "Marktguru discount monitoring.",
+    "tags": ["marktguru", "shopping", "spezi", "ofenkäse"],
+    "requirements": ["beautifulsoup4", "aiohttp"],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "disabled": false
+}
